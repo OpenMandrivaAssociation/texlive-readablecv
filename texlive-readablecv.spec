@@ -1,6 +1,6 @@
 Name:		texlive-readablecv
-Version:	61719
-Release:	2
+Version:	67986
+Release:	1
 Summary:	A highly readable and good looking CV and letter class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/readablecv
