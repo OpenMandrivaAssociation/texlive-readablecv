@@ -3,7 +3,7 @@ Version:	67986
 Release:	1
 Summary:	A highly readable and good looking CV and letter class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/readablecv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/readablecv
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/readablecv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/readablecv.doc.r%{version}.tar.xz
